@@ -200,15 +200,26 @@ The Big Day
 <!-- A brief introduction to the section. -->
 
 
-+ Be Early
-  + Planes, Trains and Automobiles
-  + The Pre-Party
+###Be Early
+
+Zeldman's quote…
+
+
+####Planes, Trains and Automobiles
+
+Anyone who's seen John Hughes' film 'Planes, Trains and Automobiles' will know when things can go wrong they often do go wrong. Travel, especially if it involves transport you have no control over (think trains and planes), can be notoriously unreliable and it often proves at its most unreliable when you need to get somewhere in a hurry.
+
+When booking flights, build in a cushion. Don't - unless you're hugely in demand and have no alternative - arrange to arrive at the venue on the day of the conference.
+
+
+####The Pre-Party
+
 
 
 ----
 
 
-+ Breathe the Room
+###Breathe the Room
   + Getting Acquainted
   + Turn Nervousness Into Excitement
 
@@ -216,7 +227,7 @@ The Big Day
 ----
 
 
-+ You’re On
+###You’re On
   + You’re in Charge
   + Use the Stage
 
@@ -224,7 +235,7 @@ The Big Day
 ----
 
 
-+ Delivery
+###Delivery
   + Rhetoric
   + The Body /* Body Language, Eye Contact, etc. */
 
@@ -232,7 +243,7 @@ The Big Day
 ----
 
 
-+ Engaging With the Back Channel
+###Engaging With the Back Channel
   + It’s Not Over When It’s Over
   + Twitter
 
@@ -240,7 +251,7 @@ The Big Day
 ----
 
 
-+ The Afterparty
+###The Afterparty
   + Connecting with People
   + Thank You
 
