@@ -522,6 +522,7 @@ Reference Material
 + [Tim Brown on Speaking](http://the-pastry-box-project.net/tim-brown/2013-december-6/)
 + [The Speaker - Improve Your Public Speaking (BBC)](http://www.bbc.co.uk/speaker/improve/)
 + [Public Speaking Tips (MIT)](http://web.mit.edu/urop/resources/speaking.html)
++ [10 Phrases Great Speakers Never Say](http://www.inc.com/jeff-haden/10-things-speakers-should-never-say-th.html)
 
 
 
