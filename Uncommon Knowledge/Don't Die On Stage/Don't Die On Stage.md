@@ -17,7 +17,7 @@ Over two inter-related sections, I explore:
 
 ‘The Big Day’ focuses on the day of the event, including: arriving early and unflustered; introducing techniques to calm the nerves; the moment you’re on; the art of delivering confidently; the importance of engaging with the back channel; and, lastly, the importance of attending afterparties and being accessible to the audience.
 
-I'm [@fehler](https://twitter.com/fehler) on Twitter. Follow me to be updated the moment I add more content.
+I’m [@fehler](https://twitter.com/fehler) on Twitter. Follow me to be updated the moment I add more content.
 
 
 ----
@@ -509,17 +509,34 @@ Talk about the need for a beginning, middle and an end. Also, consider the impor
 
 “If I am to speak for ten minutes, I need a week for preparation; if fifteen minutes, three days; if half an hour, two days; if an hour, I am ready now.” —Woodrow Wilson
 
-“Live an active life among people who are doing worthwhile things, keep eyes and ears and mind and heart open to absorb truth, and then tell of the things you know, as if you know them. The world will listen, for the world loves nothing so much as real life.” —Dale Carnegie, _The Art of Public Speaking_
 
-“A good speech should be like a woman's skirt; long enough to cover the subject and short enough to create interest.” —Winston Churchill
+“Live an active life among people who are doing worthwhile things, keep eyes and ears and mind and heart open to absorb truth, and then tell of the things you know, as if you know them. The world will listen, for the world loves nothing so much as real life.” —Dale Carnegie, _The Art of Public Speaking_
 
 <!--
 
-Inherent sexism notwithstanding, this is great advice from Churchill. All too often presenters over-labour the point, losing their audience as they do. In over a decade of presentation experience, which includes a sizeable period of working as an educator, I've seen speakers drag on for what seems an eternity.
+Carnegie is rightfully acknowledged as one of the world’s most insightful public speakers. This advice – to absorb everything from the world that surrounds you – is well worth bearing in mind. Perhaps unsurprisingly it’s echoed in James Webb Young’s excellent book, ‘A Technique for Producing Ideas’, which states:
 
-The longer you speak for, the harder it is for your audience to concentrate. Bear that in mind when you plan your presentation. 40-45 minutes, in my experience, hits the sweet spot. It's long enough for you to thoroughly explore a topic, without dragging on so long that you lose the audience.
+> Every really good creative person whom I have ever known has always had two noticeable characteristics…
+
+> First, there was no subject under the sun in which he could not easily get interested – from, say, Egyptian burial customs to modern art. Every facet of life had fascination for him. Second, he was an extensive browser in all sorts of fields of information. For it is with the advertising man as with the cow: no browsing, no milk.
+
+The world around you – ‘real life’ – is filled with ideas that bear exploring. The best speakers often simply draw attention to this fact, highlighting the everyday and the overlooked. If you’re struggling for material to form the backbone of a presentation on a topic on which you have complete creative control, it pays to take a step back and simply absorb the world around you.
+
+Look for the obvious solutions, you’ll be surprised that others often overlook these, in their quest for novelty. As noted business adviser, Sir Gerry Robinson, puts it: “The world is a relatively simple place, we just have a tendency to over-complicate it.”
 
 -->
+
+
+“A good speech should be like a woman’s skirt; long enough to cover the subject and short enough to create interest.” —Winston Churchill
+
+<!--
+
+Inherent sexism notwithstanding, this is great advice from Churchill. All too often presenters over-labour the point, losing their audience as they do. In over a decade of presentation experience, which includes a sizeable period of working as an educator, I’ve seen speakers drag on for what seems an eternity.
+
+The longer you speak for, the harder it is for your audience to concentrate. Bear that in mind when you plan your presentation. 40-45 minutes, in my experience, hits the sweet spot. It’s long enough for you to thoroughly explore a topic, without dragging on so long that you lose the audience.
+
+-->
+
 
 
 ----
