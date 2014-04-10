@@ -511,6 +511,16 @@ Talk about the need for a beginning, middle and an end. Also, consider the impor
 
 “Live an active life among people who are doing worthwhile things, keep eyes and ears and mind and heart open to absorb truth, and then tell of the things you know, as if you know them. The world will listen, for the world loves nothing so much as real life.” —Dale Carnegie, _The Art of Public Speaking_
 
+“A good speech should be like a woman's skirt; long enough to cover the subject and short enough to create interest.” —Winston Churchill
+
+<!--
+
+Inherent sexism notwithstanding, this is great advice from Churchill. All too often presenters over-labour the point, losing their audience as they do. In over a decade of presentation experience, which includes a sizeable period of working as an educator, I've seen speakers drag on for what seems an eternity.
+
+The longer you speak for, the harder it is for your audience to concentrate. Bear that in mind when you plan your presentation. 40-45 minutes, in my experience, hits the sweet spot. It's long enough for you to thoroughly explore a topic, without dragging on so long that you lose the audience.
+
+-->
+
 
 ----
 
