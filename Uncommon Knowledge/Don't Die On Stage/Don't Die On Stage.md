@@ -524,6 +524,8 @@ The world around you – ‘real life’ – is filled with ideas that bear expl
 
 Look for the obvious solutions, you’ll be surprised that others often overlook these, in their quest for novelty. As noted business adviser, Sir Gerry Robinson, puts it: “The world is a relatively simple place, we just have a tendency to over-complicate it.”
 
+When developing your theme, focus less on what you want to say than on what you want to learn, and share that with your audience. The best presentations are the result of individuals wrestling with their ideas and clarifying their thinking. The world is an incredibly complicated place, wrestling with a single topic and clarifying it for your audience will result in presentations that leave your audience with worthwhile advice. /* This idea, needs to be explored further. */
+
 -->
 
 
