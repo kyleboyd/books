@@ -107,9 +107,13 @@ Mention that it can be intimidating, but like anything in life, the hurdles can 
 
 ####The Humble Unconference
 
-Unconferences – events where anyone can volunteer to speak – offer a great opportunity to get on the first rung of the speaking ladder. Unconferences offer a very low barrier to entry, the only thing holding you back from speaking at an unconference is you. Take the plunge and get started, you’ll learn from the experience and you’ll discover if speaking is for you.
+Unconferences – informal events where anyone can offer to speak – present a great opportunity to get on the first rung of the speaking ladder. Unconferences provide a very low barrier to entry, the only thing holding you back from speaking at an unconference is you. Take the plunge and get started, you’ll learn from the experience and you’ll discover if speaking is for you.
 
-<!-- What is an unconference? (For those that don’t know.) -->
+Though you won’t be paid to speak at an unconference there are other benefits, most notably a chance to get important feedback on your presentation content and delivery. If you use a hashtag for your talk (a topic I’ll explore in more detail later in this book) your hashtag will allow you to engage with your audience once you’re off stage. Use these conversations to discover other unconference attendees and seek feedback from them.
+
+This is your chance to hear an outsider’s perspective on your presentation. How was your timing? Too short? Too long? How did others judge your content? Did they find it useful? What about your slides? Are there things you could do better with your supporting visual material?
+
+These are all important questions and unconferences offer you an opportunity to seek answers to them. 
 
 
 ####Rising Stars
