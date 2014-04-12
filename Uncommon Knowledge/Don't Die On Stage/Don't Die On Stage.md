@@ -113,12 +113,16 @@ Though you won’t be paid to speak at an unconference there are other benefits,
 
 This is your chance to hear an outsider’s perspective on your presentation. How was your timing? Too short? Too long? How did others judge your content? Did they find it useful? What about your slides? Are there things you could do better with your supporting visual material?
 
-These are all important questions and unconferences offer you an opportunity to seek answers to them. 
+These are all important questions and unconferences offer you an opportunity to seek answers to them.
+
+<!-- Stress above that unconferences are free to attend, there is - usually - no ticket price. This is an important point to stress in light of the next section on ticketed events. -->
 
 
 ####Rising Stars
 
-Increasingly, established conferences run ‘Rising Stars’ tracks to give new and upcoming speakers a foot in the door. You might not get paid to speak, but the time and effort you put in will prove invaluable.
+Increasingly, established conferences run ‘Rising Stars’ tracks to give new and upcoming speakers a foot in the door. You might not get paid to speak, but the time and effort you put in will prove invaluable. Where an unconference offers a relatively low stress environment to practice your material, 'Rising Stars' tracks are a little different.
+
+For the most part, conferences are paid affairs. Attendees will very likely have paid to be there and they expect good quality content for their hard-earned money. As a result, competition to secure a speaking engagement on a 'Rising Stars' track is often a little more fierce. Conference organisers spend a considerable amount of their time and energy putting everything together, they will want to ensure that their 'Rising Stars' speakers have what it takes to inform and entertain.
 
 
 ----
