@@ -9,9 +9,9 @@ I’ve seen some highly knowledgeable people who are terrible speakers, that fai
 
 > Highly Knowledgeable + Captivating Speaker = A Scarce Commodity
 
-Public speaking is a skill, and like any skill it gets better with practice. Although this content is centred on conference speaking, the core skills can be applied elsewhere, in a client or product pitch, an interview or other presentation. 
+Public speaking is a skill, and like any skill it gets better with practice. Although this content is centred on conference speaking, the core skills can be applied elsewhere: in a client or product pitch, an interview, or other presentation. 
 
-Over two inter-related sections, I explore both 'The Build Up' and 'The Big Day'.
+Over two inter-related sections, I explore both ‘The Build Up’ and ‘The Big Day’.
 
 ‘The Build Up’ explores everything you need to know in advance of a speaking event, including: strategies for embarking upon a speaking career; the importance of knowing your audience; the art of storytelling; techniques for structuring a narrative; the importance of slides; and, finally, the importance of preparation.
 
@@ -81,16 +81,20 @@ Draft content follows.
 The Build Up
 ------------
 
-/* I'll be adding a brief introduction to this section shortly, for now I'm focusing on content. */
+/* I’ll be adding a brief introduction to this section shortly, for now I’m focusing on content. */
 
 
 ###Say, “Yes.”
 
 The best way to get started, or to improve, as a speaker is to get as much practice as you can. Presented with an opportunity to speak, my advice would be to overcome your initial nerves and say, “Yes.” Once you commit, you’ll learn the skills you need and, if you’re in any way professional in your approach, you’ll put in the time required to make your presentation a success.
 
-Start at the bottom and work your way up. Unconferences (where anyone can volunteer to present on a topic), or events like Barcamps and Refresh, offer valuable opportunities to hone your skills as a speaker. Start there. Start small. Soon you’ll be conquering the world. Think of this as training. You don't head out the door and run a marathon without practice, and these events – which are largely unpaid – afford you an opportunity to develop your skills and build up the confidence required to go on the big stage.
+Start at the bottom and work your way up. Unconferences (where anyone can volunteer to present on a topic), or events like Barcamps and Refresh, offer valuable opportunities to hone your skills as a speaker. Start there. Start small. Soon you’ll be conquering the world. Think of this as training. You don’t head out the door and run a marathon without practice, and these events – which are largely unpaid – afford you an opportunity to develop your skills and build up the confidence required to make the step up to the big stage.
 
-The first time you get up on stage in front of an audience can be intimidating. The good news is that it gets easier with practice. The more experience you have under your belt, the better you'll be. The secret is practice, practice, practice (10,000 hours of practice, to be precise, as we’ll see shortly).
+The first time you get up on stage in front of an audience can be intimidating. The good news is that it gets easier with practice. The more experience you have under your belt, the better you’ll be. The secret is practice, practice, practice (10,000 hours of practice, to be precise, as we’ll see shortly).
+
+Speaking in public, in front of an audience, can be daunting, but like anything in life, the hurdles can be overcome with practice. Before you embark on your public speaking journey, I’d strongly advice you do some research. Take a look at how others present, not just their content, but their delivery (and, on that note, their supporting material, be it slides or other alternatives.)
+
+The good news is that there is a wealth of knowledge at your disposal. [TED](https://www.ted.com/) offers, “1,700 Talks to Stir Your Curiosity,” (and that number, by the time you read this, will very likely have grown). There are plenty of other ports of call, too. <!-- Vimeo and YouTube are both home to… also mnetion conference websites, which often have links to past talks. -->
 
 <!--
 
@@ -103,7 +107,7 @@ Mention that it can be intimidating, but like anything in life, the hurdles can 
 
 ####The Humble Unconference
 
-Unconferences – events where speakers can volunteer to speak – offer a great opportunity to get on the first rung of the speaking ladder. Unconferences offer a very low barrier to entry, the only thing holding you back from speaking at an unconference is you. Take the plunge and get started, you’ll learn from the experience and you’ll discover if speaking is for you.
+Unconferences – events where anyone can volunteer to speak – offer a great opportunity to get on the first rung of the speaking ladder. Unconferences offer a very low barrier to entry, the only thing holding you back from speaking at an unconference is you. Take the plunge and get started, you’ll learn from the experience and you’ll discover if speaking is for you.
 
 <!-- What is an unconference? (For those that don’t know.) -->
 
