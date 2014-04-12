@@ -120,9 +120,15 @@ These are all important questions and unconferences offer you an opportunity to 
 
 ####Rising Stars
 
-Increasingly, established conferences run ‘Rising Stars’ tracks to give new and upcoming speakers a foot in the door. You might not get paid to speak, but the time and effort you put in will prove invaluable. Where an unconference offers a relatively low stress environment to practice your material, 'Rising Stars' tracks are a little different.
+Increasingly, established conferences run ‘Rising Stars’ tracks to give new and upcoming speakers a foot in the door. You might not get paid to speak, but the time and effort you put in will prove invaluable. They can also prove the first rung on the ladder to other opportunities.
 
-For the most part, conferences are paid affairs. Attendees will very likely have paid to be there and they expect good quality content for their hard-earned money. As a result, competition to secure a speaking engagement on a 'Rising Stars' track is often a little more fierce. Conference organisers spend a considerable amount of their time and energy putting everything together, they will want to ensure that their 'Rising Stars' speakers have what it takes to inform and entertain.
+Where an unconference offers a relatively low stress environment to practice your material, 'Rising Stars' tracks are a little different.
+
+For the most part, conferences are paid affairs. Attendees will very likely have paid to be there and they expect good quality content for their hard-earned money. As a result, competition to secure a speaking engagement on a 'Rising Stars' track is often a little more fierce. As with anything in life, it's worth putting in the effort, the returns will be well worthwhile.
+
+Conference organisers spend a considerable amount of their time and energy putting everything together, they will want to ensure that their 'Rising Stars' speakers have what it takes to inform and entertain.
+
+
 
 
 ----
