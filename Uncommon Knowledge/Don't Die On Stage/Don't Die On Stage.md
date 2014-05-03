@@ -220,13 +220,13 @@ Mention that, by and large in my experience, academics are terrible at this. The
 Reference some storytelling theory… The Hero’s Journey, etc., Freytag’s pyramid. If you understand how stories work at a basic level, you can structure your presentation more effectively. At this point introduce some of Nancy Duarte’s diagrams. Connecting with the audience, defining a shared problem, and then solving that problem.
 
 
-####Learning from Narrative
+####Learning from Narrative <!-- Once Upon A Time -->
 
-Narratives have been around since the dawn of time. From the cave paintings of Lascaux to presentations using the latest presentation software, great presentations are built on a solid narrative backbone.
+Narratives have been around since the dawn of time. From the cave paintings of Lascaux to presentations using the latest presentation software, great presentations are built on a solid narrative backbone. <!-- Three 'presentations'. -->
 
-Familiarising yourself with the fundamental building blocks of narratives and you’ll improve your presentations considerably.
+Familiarise yourself with the fundamental building blocks of narratives and you’ll improve your presentations considerably.
 
-<!-- More detail here, including some examples. -->
+/* More detail here, including some examples. This is where we need to explore Freitag's Pyramid, etc., also Shakespearean act structures, etc. There's a lot of good theory here, most of it can be diagrammed. Explore that, considering diagram styles, etc. */
 
 
 ####Underlying Structure
@@ -587,7 +587,6 @@ Reference Material
 + [The Speaker - Improve Your Public Speaking (BBC)](http://www.bbc.co.uk/speaker/improve/)
 + [Public Speaking Tips (MIT)](http://web.mit.edu/urop/resources/speaking.html)
 + [10 Phrases Great Speakers Never Say](http://www.inc.com/jeff-haden/10-things-speakers-should-never-say-th.html)
-
 
 
 
