@@ -96,13 +96,13 @@ Speaking in public, in front of an audience, can be daunting, but like anything 
 
 The good news is that there is a wealth of knowledge at your disposal. [TED](https://www.ted.com/) offers, “1,700 Talks to Stir Your Curiosity,” (and that number, by the time you read this, will very likely have grown). There are plenty of other ports of call, too. <!-- Vimeo and YouTube are both home to… also mnetion conference websites, which often have links to past talks. -->
 
-<!--
+/*
 
-Stress that this is practice in the macro sense (the more talks you do, the better you get), than practice in the micro sense (you need to have run through your presentation multiple times, rehearsing).
+Stress that this is practice in the macro sense (the more talks you do, the better you get), rather than practice in the micro sense (you need to have run through your presentation multiple times, rehearsing it, in order to deliver confidently and convincingly).
 
-Mention that it can be intimidating, but like anything in life, the hurdles can be overcome with practice. Also, suggest folks watch TED talk to see what works and what doesn’t.
+Speaking can be intimidating, but like anything in life, the hurdles can be overcome with practice.
 
--->
+*/
 
 
 ####The Humble Unconference
@@ -128,7 +128,15 @@ For the most part, conferences are paid affairs. Attendees will very likely have
 
 Conference organisers spend a considerable amount of their time and energy putting everything together, they will want to ensure that their 'Rising Stars' speakers have what it takes to inform and entertain.
 
+/*
 
+Given the last few days discussion around speakers' fees, it might be an idea to link to some resources on this:
+
++ [Jenn Lukas on 'A Formula For Speaking Fees'](http://www.thenerdary.net/post/84544230452/a-formula-for-speaking-fees)
++ [Mark Boulton on 'What are you worth?'](http://markboulton.co.uk/journal/what-are-you-worth)
++ [Remy Sharp on 'You're Paying to Speak'](http://remysharp.com/2014/03/07/youre-paying-to-speak/)
+
+*/
 
 
 ----
