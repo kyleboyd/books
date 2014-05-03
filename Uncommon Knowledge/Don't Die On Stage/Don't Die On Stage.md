@@ -205,6 +205,11 @@ Don't be a prima donna, be sure to thank everyone that's involved in ensuring yo
 
 Frame your story in a manner that your audience can empathise with. /* There are some very good points on this in Nancy Duarte's 'Guide to Persuasive Presentations' (on HBR). */
 
+One technique is to start with a question. Take your cornerstone point and frame it as a question for the audience. For example, in a presentation titled 'Ideas Factories', on innovation and where good ideas come from, I might begin with a series of questions, designed to get the audience thinking. <!-- Do I want to use personal examples? Think this through. -->
+
+Somewhere we need to cover the size of the audience. It might be five people in a boardroom, fifty people in a seminar or five hundred people in an auditorium... Each will have its own dynamic and demand a different approach. Five people might require more one-to-one interaction, a group of fifty will have a different dynamic, but that doesn't mean you can't interact... The larger the audience the harder it gets.
+
+
 
 ----
 
