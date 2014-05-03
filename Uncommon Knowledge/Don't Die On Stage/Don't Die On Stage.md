@@ -136,6 +136,8 @@ Given the last few days discussion around speakers' fees, it might be an idea to
 + [Mark Boulton on 'What are you worth?'](http://markboulton.co.uk/journal/what-are-you-worth)
 + [Remy Sharp on 'You're Paying to Speak'](http://remysharp.com/2014/03/07/youre-paying-to-speak/)
 
+Looking at the outline, this might need to be rethought to factor this section in (or roll it into 'Rising Stars' which doesn't 100% feel right). Possible merge the unconferences and rising stars sections, and then add a section on paing conferences, where this is included?
+
 */
 
 
@@ -146,16 +148,22 @@ Given the last few days discussion around speakers' fees, it might be an idea to
 
 No one wants to hear a speaker drone on at length about their incredible life experiences. Of course, those incredible life experiences might be the reason you’ve secured an invitation to speak, but don’t forget, the audience outnumbers you by a considerable margin and you need to empathise and connect with them.
 
-Audiences like to empathise and the best way to communicate your message is to frame it in terms that an audience can relate to. By all means, share your hard-won 
+Audiences like to empathise and the best way to communicate your message is to frame it in terms that an audience can relate to. By all means, share your hard-won lessons, but it's a good idea to frame these in a manner that the audience can empathise with.
+
+/*
+
+As a side note, mention that getting introduced by the organiser is better than introducing yourself. Reference [Yes! 50 Secrets from the Science of Persuasion](#) with regards to this. It's filled with great advice. This might be better to moved to the second section of the book 'The Big Day'.
+
+*/
 
 
 ####Know Your Audience
 
 Get to know your audience. All audiences are different and all have different needs. Before you begin to frame your talk and plan it out, undertake some basic research on what the audience make up is like.
 
-Know the audience. As a professional (even one volunteering their time to speak), you have a duty to research the audience before you begin. How can you communicate effectively with an audience if you haven’t taken the time to get to know them?
+As a professional (even one volunteering their time to speak), you have a duty to research the audience before you begin. How can you communicate effectively with an audience if you haven’t taken the time to get to know them?
 
-I always make a point of getting to know the person who invited me, and – if possible – the wider team, before I arrive. It’s simply a common courtesy, they can then guide you on the audience’s needs and make up. In our initial discussions I drill down to discover what the audiences interests are and what their needs might be.
+I always make a point of getting to know the person who invited me, and – if possible – the wider team, before I arrive. It’s simply a common courtesy, they can then guide you on the audience’s needs and make up. In our initial discussions I drill down to discover what the audiences' interests are and what their needs might be.
 
 You’re a professional and you should know the importance of treating your audience like the professionals they are. An average sized conference with a few hundred attendees is a room overflowing with investment, your audience have to paid to be here, in many cases travelled to attend, are often staying in a hotel, and are paying for food and drink. Every single member of the audience has invested in this and you have a duty to deliver.
 
@@ -165,33 +173,34 @@ I was shocked.
 
 This is basic preparation and is the difference between a professional and an amateur. If you’ve been paid to be on stage, you need to know your material inside and out. Not knowing the answers to simple questions due to poor preparation is not only unprofessional, it’s disrespectful of your audience (the audience who, at the end of the day, paid you to be there).
 
+/*
+
 Stress that the organiser is a channel to the audience. The organiser wants the most from you and will do what they can to ensure you’re afforded everything you need.
 
-<!--
+It's worth the brown M&Ms from Van Halen’s legendary rider. This was less a case of a penchant for brown M&Ms and more a filter to see had organisers actually read the rider.
 
-The Brown M&Ms from Van Halen’s legendary rider.
-
--->
+*/
 
 Basic facts to check, include:
 
++ What is the organiser's vision for the conference?
 + How many people will be there?
-+ Who are they, and what do you think they want to hear about?
++ Are attendees paying to attend? If so, how much?
++ Who comprises the audience and what might they want to hear about?
 + Basic PA questions: screen, audio, etc.
 + Will this be run off of my laptop or your system? <!-- Regardless, always pack your adaptors. -->
 + Will I have a screen on stage to see the current slide? <!-- A ‘courtesy monitor’. -->
 + Will the talk be recorded?
 
-<!--
+Whilst we’re on the topic of organisers, don’t forget to thank the organisers for their hard work. At large conferences, there’s a lot that goes on that you very often don’t see, before, during and after the conference. (Think of the proverbial swan: graceful on the surface, frantic below the surface.) A conference organiser’s job is a thankless one, and a bit of appreciation goes a long way.
 
-Whilst we’re on the topic of organisers… Don’t forget to thank the organisers for their hard work. At large conferences, there’s a lot that goes on that you don’t see. A conference organiser’s job is thankless, and a bit of appreciation to the people who are running your slides and wiring your mic go a very long way. DOUBLE CHECK THIS TEXT, IT MIGHT BE COPIED AND PASTED.
-
--->
+Don't be a prima donna, be sure to thank everyone that's involved in ensuring your experience is a good one. From the people who are running your slides and wiring your mic, to the volunteers who are helping attendees, a lot of work goes into ensuring everything is just right. A thank you to all of these hard workers goes a very long way and is, after all, a common courtesy. 
 
 
 ####Build Empathy
 
-Frame your story in a manner that your audience can empathise with.
+Frame your story in a manner that your audience can empathise with. /* There are some very good points on this in Nancy Duarte's 'Guide to Persuasive Presentations' (on HBR). */
+
 
 ----
 
