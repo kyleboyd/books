@@ -136,7 +136,9 @@ Given the last few days discussion around speakers' fees, it might be an idea to
 + [Mark Boulton on 'What are you worth?'](http://markboulton.co.uk/journal/what-are-you-worth)
 + [Remy Sharp on 'You're Paying to Speak'](http://remysharp.com/2014/03/07/youre-paying-to-speak/)
 
-Looking at the outline, this might need to be rethought to factor this section in (or roll it into 'Rising Stars' which doesn't 100% feel right). Possible merge the unconferences and rising stars sections, and then add a section on paing conferences, where this is included?
+Looking at the outline, this might need to be rethought to factor this section in (or roll it into 'Rising Stars' which doesn't 100% feel right). Possibly merge the unconferences and rising stars sections, and then add a section on paying conferences, where this is included?
+
+I think structurally this needs to begin with a merged section on unconferences and rising stars tracks, before then moving on to explore paid speaking events. This allows for a full exploration of pricing, which can be queued up by reintroducing the idea that great speakers are hard to come by and consequently can demand higher fees. It's important to stress that, though by no means commonplace, it is entirely possible to build a supplementary income through speaking and other engagements (for example, workshops and other forms of training).
 
 */
 
@@ -146,7 +148,9 @@ Looking at the outline, this might need to be rethought to factor this section i
 
 ###It’s Not All You
 
-No one wants to hear a speaker drone on at length about their incredible life experiences. Of course, those incredible life experiences might be the reason you’ve secured an invitation to speak, but don’t forget, the audience outnumbers you by a considerable margin and you need to empathise and connect with them.
+No one wants to hear a speaker drone on at length about their incredible life experiences. Of course, those incredible life experiences might be the very reason you’ve secured an invitation to speak, but don’t forget, the audience outnumbers you by a considerable margin and you need to empathise and connect with them.
+
+<!-- Stress that audiences are for the most part behind you. They'll support you, even when things go wrong. There's a high degree of empathy in play here... This might be teased out in a later section in the second part, about 'When Things Go Wrong', which should explore the inevitable technical hiccups that occur from time to time. The audience is on your side, few enjoy witnessing the discomfort of others and, as a result, the audience will will you on and bear with you if technical gremlins rear their head. -->
 
 Audiences like to empathise and the best way to communicate your message is to frame it in terms that an audience can relate to. By all means, share your hard-won lessons, but it's a good idea to frame these in a manner that the audience can empathise with.
 
