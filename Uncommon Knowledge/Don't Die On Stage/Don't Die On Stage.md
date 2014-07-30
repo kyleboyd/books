@@ -591,6 +591,7 @@ The longer you speak for, the harder it is for your audience to concentrate. Bea
 Reference Material
 ------------------
 
++ [Get Speaking!](http://getspeak.in/public-speaking/)
 + [How to Prepare for a Presentation](http://www.informationdiet.com/blog/read/how-i-prep-for-a-speech)
 + [Tim Brown on Speaking](http://the-pastry-box-project.net/tim-brown/2013-december-6/)
 + [The Speaker - Improve Your Public Speaking (BBC)](http://www.bbc.co.uk/speaker/improve/)
