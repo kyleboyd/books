@@ -19,6 +19,8 @@ Over two inter-related sections, I explore both ‘The Build Up’ and ‘The Bi
 
 I’m [@fehler](https://twitter.com/fehler) on Twitter. Follow me to be updated the moment I add more content.
 
+/* The latest version of this book is in a private repo, shared with the Smashing Media team. If you'd like to see it, tweet. */
+
 
 ----
 
