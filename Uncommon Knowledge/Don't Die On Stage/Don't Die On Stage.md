@@ -1,13 +1,19 @@
-Don’t Die On Stage
-==================
+The Perfect Pitch
+=================
 
 <small>Christopher Murphy · [@fehler](https://twitter.com/fehler)</small>
 
-A two part resource on the art of public speaking, based upon my teaching at The Belfast School of Art, ‘Don’t Die on Stage’ covers everything you need to know to improve your presentation skills. I consider the journey from novice to mastery, starting small and growing your skills, learning as you progress.
+As this outline stands it's focused on the art of public speaking and is intended for anyone that hopes to develop a career as a conference speaker. It could, however, be refocused on the art of the pitch, helping anyone that needs to pitch as a part of their job.
 
-I’ve seen some highly knowledgeable people who are terrible speakers, that fail to captivate the audience. I’ve equally seen some incredibly entertaining speakers, who communicated nothing. As Scott Berkun summarises it neatly (and I might be paraphrasing his thoughts, just a little):
 
-> Highly Knowledgeable + Captivating Speaker = A Scarce Commodity
+----
+
+
+A two part resource on the art of public speaking, based upon my teaching at The Belfast School of Art, _‘The Perfect Pitch’_ covers everything you need to know to improve your presentation and persuasion skills. I consider the journey from novice to mastery, starting small and growing your skills, learning as you progress.
+
+I’ve seen some highly knowledgeable people who are terrible speakers that fail to captivate the audience. I’ve equally seen some incredibly entertaining speakers, who communicated nothing. As Scott Berkun summarises it neatly (and I might be paraphrasing his thoughts, just a little):
+
+> A Highly Knowledgeable + A Captivating Speaker = A Scarce Commodity
 
 Public speaking is a skill, and like any skill it gets better with practice. Although this content is centred on conference speaking, the core skills can be applied elsewhere: in a client or product pitch, an interview, or other presentation. 
 
@@ -15,11 +21,7 @@ Over two inter-related sections, I explore both ‘The Build Up’ and ‘The Bi
 
 ‘The Build Up’ explores everything you need to know in advance of a speaking event, including: strategies for embarking upon a speaking career; the importance of knowing your audience; the art of storytelling; techniques for structuring a narrative; the importance of slides; and, finally, the importance of preparation.
 
-‘The Big Day’ focuses on the day of the event, including: arriving early and unflustered; introducing techniques to calm the nerves; the moment you’re on; the art of delivering confidently; the importance of engaging with the back channel; and, lastly, the importance of attending afterparties and being accessible to the audience.
-
-I’m [@fehler](https://twitter.com/fehler) on Twitter. Follow me to be updated the moment I add more content.
-
-/* The latest version of this book is in a private repo, shared with the Smashing Media team. If you'd like to see it, tweet. */
+‘The Big Day’ focuses on the day of the event, including: arriving early and unflustered; introducing techniques to calm the nerves; considering the moment you go on stage; the art of delivering confidently; the importance of engaging with the back channel; and, lastly, the importance of attending afterparties and being accessible to the audience.
 
 
 ----
@@ -83,50 +85,54 @@ Draft content follows.
 The Build Up
 ------------
 
-/* I’ll be adding a brief introduction to this section shortly, for now I’m focusing on content. */
+The first section of the book, ‘The Build Up’, explores everything you need to know in advance of a speaking event, including: strategies for embarking upon a speaking career; the importance of knowing your audience; the art of storytelling; techniques for structuring a narrative; the importance of slides; and, finally, the importance of preparation.
+
+/* I’ll be adding a more substantial introduction to this section shortly, for now I’m focusing on content. In short it will stress that there's a great deal that happens _in advance_ of the moment you take the stage, this all needs to be conisdered and, as with everything, preparation is key. */
 
 
 ###Say, “Yes.”
 
-The best way to get started, or to improve, as a speaker is to get as much practice as you can. Presented with an opportunity to speak, my advice would be to overcome your initial nerves and say, “Yes.” Once you commit, you’ll learn the skills you need and, if you’re in any way professional in your approach, you’ll put in the time required to make your presentation a success.
+The best way to get started, or to improve, as a speaker is to get as much practice as you can. Presented with an opportunity to speak, my advice would be to overcome your initial inevitable nerves and say, “Yes.” Once you commit, you’ll learn the skills you need and, if you’re in any way professional in your approach, you’ll put in the time required to make your presentation a success.
 
-Start at the bottom and work your way up. Unconferences (where anyone can volunteer to present on a topic), or events like Barcamps and Refresh, offer valuable opportunities to hone your skills as a speaker. Start there. Start small. Soon you’ll be conquering the world. Think of this as training. You don’t head out the door and run a marathon without practice, and these events – which are largely unpaid – afford you an opportunity to develop your skills and build up the confidence required to make the step up to the big stage.
+Start at the bottom and work your way up (as all great speakers do). Unconferences, where anyone can volunteer to present on a topic, or events like [Barcamp](http://barcamp.org) and [Refresh](http://refreshingcities.com), offer valuable opportunities to hone your skills as a speaker. Start there. Start small.
 
-The first time you get up on stage in front of an audience can be intimidating. The good news is that it gets easier with practice. The more experience you have under your belt, the better you’ll be. The secret is practice, practice, practice (10,000 hours of practice, to be precise, as we’ll see shortly).
+Soon you’ll be conquering the world. Think of this as training. You don’t head out the door and run a marathon without practice, and these events – which are largely unpaid – afford you an opportunity to develop your skills and build up the confidence required to make the step up to the big stage.
+
+The first time you get up on stage in front of an audience can be intimidating. The good news is that it gets easier with practice. The more experience you have under your belt, the better you’ll be. The secret is practice, practice, practice (10,000 hours of practice to be precise, as we’ll see shortly).
 
 Speaking in public, in front of an audience, can be daunting, but like anything in life, the hurdles can be overcome with practice. Before you embark on your public speaking journey, I’d strongly advice you do some research. Take a look at how others present, not just their content, but their delivery (and, on that note, their supporting material, be it slides or other alternatives.)
 
-The good news is that there is a wealth of knowledge at your disposal. [TED](https://www.ted.com/) offers, “1,700 Talks to Stir Your Curiosity,” (and that number, by the time you read this, will very likely have grown). There are plenty of other ports of call, too. <!-- Vimeo and YouTube are both home to… also mnetion conference websites, which often have links to past talks. -->
+The good news is that there is a wealth of knowledge at your disposal. [TED](https://www.ted.com/) offers, “1,700 Talks to Stir Your Curiosity,” (and that number, by the time you read this, will very likely have grown). There are plenty of other ports of call, too. [Vimeo](https://www.google.co.uk/search?client=safari&rls=en&q=vimeo+conference+talks&ie=UTF-8&oe=UTF-8&gfe_rd=cr&ei=55WRVOvdIKfj8wfrloLwDA) and [YouTube](https://www.google.co.uk/search?client=safari&rls=en&q=vimeo+conference+talks&ie=UTF-8&oe=UTF-8&gfe_rd=cr&ei=55WRVOvdIKfj8wfrloLwDA#rls=en&q=youtube+conference+talks) are both home to a wealth of material. Equally, [Slideshare](http://www.slideshare.net) and [Speakerdeck](https://speakerdeck.com) are an invaluable resource, providing a helpful overview of others' slide decks.
+
+Increasingly, conference organisers archive past talks on their own web sites, so conference web sites are also a worthwhile port of call. /* It might be an idea to make some recommendations here. */
 
 /*
 
-Stress that this is practice in the macro sense (the more talks you do, the better you get), rather than practice in the micro sense (you need to have run through your presentation multiple times, rehearsing it, in order to deliver confidently and convincingly).
-
-Speaking can be intimidating, but like anything in life, the hurdles can be overcome with practice.
+Stress that this is practice in the macro sense (the more talks you do, the better you get), rather than practice in the micro sense (you need to have run through your presentation multiple times, rehearsing it, in order to deliver confidently and convincingly). Speaking can be intimidating, but like anything in life, the hurdles can be overcome with practice.
 
 */
 
 
 ####The Humble Unconference
 
-Unconferences – informal events where anyone can offer to speak – present a great opportunity to get on the first rung of the speaking ladder. Unconferences provide a very low barrier to entry, the only thing holding you back from speaking at an unconference is you. Take the plunge and get started, you’ll learn from the experience and you’ll discover if speaking is for you.
+Unconferences – informal events where anyone can volunteer to speak – present a great opportunity to get on the first rung of the speaking ladder. Unconferences provide a very low barrier to entry, the only thing holding you back from speaking at an unconference is you. Take the plunge and get started, you’ll learn from the experience and you’ll discover if speaking is for you.
 
-Though you won’t be paid to speak at an unconference there are other benefits, most notably a chance to get important feedback on your presentation content and delivery. If you use a hashtag for your talk (a topic I’ll explore in more detail later in this book) your hashtag will allow you to engage with your audience once you’re off stage. Use these conversations to discover other unconference attendees and seek feedback from them.
+Though you won’t be paid to speak at an unconference there are other benefits, most notably a chance to get important feedback on your presentation's content and delivery. If you use a hashtag for your talk (a topic I’ll explore in more detail later in this book) your hashtag will allow you to engage with your audience once you’re off stage. You can use these conversations to discover other unconference attendees and engage with them. This is a great way of getting feedback, and – equally importantly – can lead to new opportunities for your business.
 
-This is your chance to hear an outsider’s perspective on your presentation. How was your timing? Too short? Too long? How did others judge your content? Did they find it useful? What about your slides? Are there things you could do better with your supporting visual material?
+Engage in the conversation and nurture it. This is your chance to hear an outsider’s perspective on your presentation. How was your timing? Too short? Too long? How did others judge your content? Did they find it useful? What about your slides? Are there things you could do better with your supporting visual material?
 
 These are all important questions and unconferences offer you an opportunity to seek answers to them.
 
-<!-- Stress above that unconferences are free to attend, there is - usually - no ticket price. This is an important point to stress in light of the next section on ticketed events. -->
+/* Stress above that unconferences are free to attend as there's usually no ticket price. This is an important point to stress in light of the next section on ticketed events. */
 
 
 ####Rising Stars
 
-Increasingly, established conferences run ‘Rising Stars’ tracks to give new and upcoming speakers a foot in the door. You might not get paid to speak, but the time and effort you put in will prove invaluable. They can also prove the first rung on the ladder to other opportunities.
+Increasingly, established conferences run ‘Rising Stars’ tracks to give new and upcoming speakers a foot in the door. You might not get paid to speak, but the time and effort you put in will prove invaluable. They can also prove the first rung on the ladder to other, paid opportunities.
 
 Where an unconference offers a relatively low stress environment to practice your material, 'Rising Stars' tracks are a little different.
 
-For the most part, conferences are paid affairs. Attendees will very likely have paid to be there and they expect good quality content for their hard-earned money. As a result, competition to secure a speaking engagement on a 'Rising Stars' track is often a little more fierce. As with anything in life, it's worth putting in the effort, the returns will be well worthwhile.
+For the most part, conferences are paid affairs. Attendees will very likely have paid to be there and they expect good quality content for their hard-earned money (you wouldn't expect any different). As a result, competition to secure a speaking engagement on a 'Rising Stars' track is often a little more fierce. As with anything in life, however, it's worth putting in the effort, the returns will be more than worthwhile.
 
 Conference organisers spend a considerable amount of their time and energy putting everything together, they will want to ensure that their 'Rising Stars' speakers have what it takes to inform and entertain.
 
@@ -152,9 +158,9 @@ I think structurally this needs to begin with a merged section on unconferences 
 
 No one wants to hear a speaker drone on at length about their incredible life experiences. Of course, those incredible life experiences might be the very reason you’ve secured an invitation to speak, but don’t forget, the audience outnumbers you by a considerable margin and you need to empathise and connect with them.
 
-<!-- Stress that audiences are for the most part behind you. They'll support you, even when things go wrong. There's a high degree of empathy in play here... This might be teased out in a later section in the second part, about 'When Things Go Wrong', which should explore the inevitable technical hiccups that occur from time to time. The audience is on your side, few enjoy witnessing the discomfort of others and, as a result, the audience will will you on and bear with you if technical gremlins rear their head. -->
+Audiences are, for the most part, behind you. They'll support you, even when things go wrong. There's a high degree of empathy in play here. /* This might be teased out in a later section in the second part, about 'When Things Go Wrong', which should explore the inevitable technical hiccups that occur from time to time. The audience is on your side, few enjoy witnessing the discomfort of others and, as a result, the audience will will you on and bear with you if technical gremlins rear their ugly head. */
 
-Audiences like to empathise and the best way to communicate your message is to frame it in terms that an audience can relate to. By all means, share your hard-won lessons, but it's a good idea to frame these in a manner that the audience can empathise with.
+Audiences are humans, and humans, for the most part, are equipped with a degree of empathy. As a speaker you need to understand this and find ways to build a strong connection with your audience. Regardless of your story, the best way to communicate your message is to frame it in terms that an audience can relate to. By all means, share your hard-won lessons, but it's a good idea to frame these in a manner that the audience can empathise with.
 
 /*
 
@@ -169,21 +175,21 @@ Get to know your audience. All audiences are different and all have different ne
 
 As a professional (even one volunteering their time to speak), you have a duty to research the audience before you begin. How can you communicate effectively with an audience if you haven’t taken the time to get to know them?
 
-I always make a point of getting to know the person who invited me, and – if possible – the wider team, before I arrive. It’s simply a common courtesy, they can then guide you on the audience’s needs and make up. In our initial discussions I drill down to discover what the audiences' interests are and what their needs might be.
+I always make a point of getting to know the person who invited me, and – if possible – the wider team, before I arrive. This is simply a common courtesy, but over and above politeness, an event's organisers can guide you on the audience’s needs and make up. In our initial discussions I drill down to discover what the audiences' interests are and what their needs might be. It's important to me to know what matters to them.
 
 You’re a professional and you should know the importance of treating your audience like the professionals they are. An average sized conference with a few hundred attendees is a room overflowing with investment, your audience have to paid to be here, in many cases travelled to attend, are often staying in a hotel, and are paying for food and drink. Every single member of the audience has invested in this and you have a duty to deliver.
 
-I once witnessed a talk by a very talented individual (a great designer, a terrible speaker), who in the Q&A, when asked about pricing tiers for web font platforms, which had been the subject of the talk, responded, “I have no idea. You could just Google it.”
+I once witnessed a talk by a very talented individual (a great designer, a terrible speaker), who in the Q&A, when asked about pricing tiers for web font platforms – which had been the subject of the talk – responded, “I have no idea about pricing tiers. You could just Google it.”
 
 I was shocked.
 
-This is basic preparation and is the difference between a professional and an amateur. If you’ve been paid to be on stage, you need to know your material inside and out. Not knowing the answers to simple questions due to poor preparation is not only unprofessional, it’s disrespectful of your audience (the audience who, at the end of the day, paid you to be there).
+This is basic preparation and is the difference between a professional and an amateur. If you’ve been paid to be on stage, even if you haven't been paid, you need to know your material inside and out. Not knowing the answers to simple questions due to poor preparation is not only unprofessional, it’s disrespectful of your audience (the audience who, at the end of the day, paid you to be there, of – if it's an unconference – paid with their time away from work).
 
 /*
 
 Stress that the organiser is a channel to the audience. The organiser wants the most from you and will do what they can to ensure you’re afforded everything you need.
 
-It's worth the brown M&Ms from Van Halen’s legendary rider. This was less a case of a penchant for brown M&Ms and more a filter to see had organisers actually read the rider.
+It's worth mentioning the brown M&Ms from Van Halen’s legendary rider. This was less a case of a penchant for brown M&Ms and more a filter to see had organisers actually read the rider.
 
 */
 
@@ -194,23 +200,34 @@ Basic facts to check, include:
 + Are attendees paying to attend? If so, how much?
 + Who comprises the audience and what might they want to hear about?
 + Basic PA questions: screen, audio, etc.
-+ Will this be run off of my laptop or your system? <!-- Regardless, always pack your adaptors. -->
-+ Will I have a screen on stage to see the current slide? <!-- A ‘courtesy monitor’. -->
++ Will this be run off of my laptop or your system? (Regardless, always pack your adaptors.)
++ Will I have a screen on stage to see the current slide? /* Explain what a ‘courtesy monitor’ is. */
 + Will the talk be recorded?
 
-Whilst we’re on the topic of organisers, don’t forget to thank the organisers for their hard work. At large conferences, there’s a lot that goes on that you very often don’t see, before, during and after the conference. (Think of the proverbial swan: graceful on the surface, frantic below the surface.) A conference organiser’s job is a thankless one, and a bit of appreciation goes a long way.
+Whilst we’re on the topic of organisers, don’t forget to thank the organisers for their hard work. At large conferences, there’s a lot that goes on that you very often don’t see: before, during and after the conference. (Think of the proverbial swan: graceful on the surface, frantic below the surface.) A conference organiser’s job is a thankless one, and a little bit of appreciation goes a long way. (No one seems to say 'thank you' any more in this day and age, make sure you buck this unfortunate trend, and offer thanks where it's due. You'll be surprised how much this simple act is appreciated.)
 
-Don't be a prima donna, be sure to thank everyone that's involved in ensuring your experience is a good one. From the people who are running your slides and wiring your mic, to the volunteers who are helping attendees, a lot of work goes into ensuring everything is just right. A thank you to all of these hard workers goes a very long way and is, after all, a common courtesy. 
+Don't be a prima donna. Be sure to thank everyone that's involved in ensuring your experience is a good one. From the people who are ensuring your slides display correctly and wiring your mic, to the volunteers who are helping attendees. All of these people are instrumental to a conference's success and all – for the most part – will be giving their time freely. A lot of work goes into ensuring everything is just right. A thank you to all of these hard workers goes a very long way and is, after all, a common courtesy. 
 
 
 ####Build Empathy
 
 Frame your story in a manner that your audience can empathise with. /* There are some very good points on this in Nancy Duarte's 'Guide to Persuasive Presentations' (on HBR). */
 
-One technique is to start with a question. Take your cornerstone point and frame it as a question for the audience. For example, in a presentation titled 'Ideas Factories', on innovation and where good ideas come from, I might begin with a series of questions, designed to get the audience thinking. <!-- Do I want to use personal examples? Think this through. -->
+One technique is to start with a question. Take your cornerstone point and frame it as a question for the audience. For example, in a presentation titled 'Ideas Factories', on innovation and where good ideas come from, I might begin with a series of questions, designed to get the audience thinking.
+
+/* Do I want to use personal examples? Think this through. */
+
+Challenge the audience: We're all in this together, we're all called upon to come up with an endless stream of ideas, on tap at a moment's notice. How do we satsisfy this desire?
+
+By engaging the audience with a question or proposition they can relate to, you can very quickly build rapport. After all, they've come to the conference looking for answers that matter to them in their day-to-day life. How are you helping them with these problems? It's important that you kick off your presentation in a manner that the audience can relate to. If you pose them a question you know they're considering, the audience will feel tantalised and want to know the answer.
+
+This, at the end of the day, is what an audience wants. They've - for the most part - paid to be in the audience. As such, it's not unrealistic to expect them to want answers. Your job, as a speaker, is to provide those answers.
+
+/*
 
 Somewhere we need to cover the size of the audience. It might be five people in a boardroom, fifty people in a seminar or five hundred people in an auditorium... Each will have its own dynamic and demand a different approach. Five people might require more one-to-one interaction, a group of fifty will have a different dynamic, but that doesn't mean you can't interact... The larger the audience the harder it gets.
 
+*/
 
 
 ----
@@ -220,49 +237,82 @@ Somewhere we need to cover the size of the audience. It might be five people in 
 
 We learn through stories. The best speakers understand this. By framing your topic like a story, you can develop it in a way that your audience can relate to.
 
-Since the dawn of time we’ve been telling stories, stories are how we learn as humans. The cave paintings at Lascaux tell us stories of majestic hunts fraught with danger, but filled with excitment. We don’t need to have been there to understand the story, they communicate clearly.
+Since the dawn of time we’ve been telling stories, stories are how we learn as humans. The cave paintings at Lascaux tell us stories of majestic hunts fraught with danger, but filled with excitment. We don’t need to have been there to understand the story. They communicate clearly.
 
-Hold that thought. (Communicate clearly.)
+Hold that thought. (You need to communicate clearly.)
 
-To tell your story you need to know your story. It’s feels absurd writing it, but as an educator who has suffered through countless presentations that drifted and rambled with no real point, trust me…
+To tell your story you need to know your story. It’s feels absurd writing it, but as an educator who has suffered through countless presentations that drifted and rambled with no real point, trust me….
 
-Mention that, by and large in my experience, academics are terrible at this. They seemingly over-compensate for fear and a lack of intelligence by over complex words. Don’t use ‘obfuscatory’ when ‘unclear’ will do. There’s nothing clever about it, indeed, it’s really rather idiotic.
+/*
 
-Reference some storytelling theory… The Hero’s Journey, etc., Freytag’s pyramid. If you understand how stories work at a basic level, you can structure your presentation more effectively. At this point introduce some of Nancy Duarte’s diagrams. Connecting with the audience, defining a shared problem, and then solving that problem.
+Mention that, by and large in my experience, academics are terrible at this. They seemingly over-compensate for fear and a self-doubt-driven lack of intelligence by using over complex words. Don’t use ‘obfuscatory’ when ‘unclear’ will do. There’s nothing clever about it, indeed, it’s really rather idiotic, or 'injudicous', as an academic might put it.
+
+At this point, we need to reference some storytelling theory: The Hero’s Journey, Freytag’s pyramid, etc..
+
+The bottom line we're stressing: If you understand how stories work at a basic level, you can structure your presentation more effectively. At this point introduce some of Nancy Duarte’s diagrams. Connecting with the audience, defining a shared problem, and then solving that problem.
+
+*/
 
 
-####Learning from Narrative <!-- Once Upon A Time -->
+####Learning from Narrative
 
-Narratives have been around since the dawn of time. From the cave paintings of Lascaux to presentations using the latest presentation software, great presentations are built on a solid narrative backbone. <!-- Three 'presentations'. -->
+In the old days, stories used to begin: 'Once Upon A Time…'.
 
-Familiarise yourself with the fundamental building blocks of narratives and you’ll improve your presentations considerably.
+Narratives have been around since the dawn of time. From the cave paintings of Lascaux to presentations using the latest presentation software, great presentations are built on a solid narrative backbone. Don't lose sight of this. As a speaker, it's the story you tell that's the important part. Audiences love captivating stories, these matter far more than a weaker story supplemented by incredibly designed slides.
 
-/* More detail here, including some examples. This is where we need to explore Freitag's Pyramid, etc., also Shakespearean act structures, etc. There's a lot of good theory here, most of it can be diagrammed. Explore that, considering diagram styles, etc. */
+As a speaker, you need to familiarise yourself with the fundamental building blocks of narrative. Do this and your stories will resonate more effectively and you'll improve your presentations considerably.
+
+/*
+
+We need more detail here, including some examples. This is where we need to explore Freitag's Pyramid, etc., also Shakespearean act structures, etc. There's a lot of good theory here, most of it can be diagrammed. Explore that, considering diagram styles, etc..
+
+*/
 
 
 ####Underlying Structure
 
-A beginning, a middle and an end. All stories feature these basic components, and yet – surprisingly – these are often forgotten. Inexperienced presenters pull together a sequence of slides that have little or no logical sequencing. Think of how your audience is following along, lay out the story clearly.
+It sounds ridiculous to say it, but the best stories have a beginning, a middle and an end. All the stories we remember feature these basic components, and yet – surprisingly – these are often forgotten.
+
+Inexperienced presenters pull together a sequence of slides that have little or no logical sequencing. This approach - bouncing around the central story with no cohesive message – is the mark of a poorly prepared presenter. As an aspiring professional, think of how your audience is following along and lay out the story clearly.
+
+What is your key point? Tell the audience.
+
+If you can't condense the story down to a core point, your story is probably weak. Ask yourself: What do I hope the audience will take away from this presentation? If you can't answer that question your story needs work. Your audience should leave your presentation with a clear understanding of the key points you were making. If the audience is unclear of these key points you need to revisit your core story.
+
+Your presentation's structure is critical, it is the backbone of your message. If you're unclear of the key points you want to deliver your story structure will inevitably suffer. Before you embark on crafting your slides you need to get the story in place.
+
+It might sound obvious, but this is where many professional presentations miss the mark. The speaker, lost in the detail, fails to understand the bigger picture. The detail is, of course, important, but the bigger picture is critical. Your audience should leave with a clear sense of the points you wished to make, if they're left in any doubt as to your purpose, you have underdelivered.
+
+/* We need more on this, perhaps an example to guide readers through distilling a complex message down into a core, focused story. */
+
 
 ----
 
 
 ###It Pays to Start With Paper
 
-<!--
+/*
 
 I don’t recommend launching Keynote, PowerPoint or your visual aid of choice at the beginning. It’s much more important to know what it is that you want to say then, later, give that form.
 
--->
+*/
 
-Don’t start with Keynote, or PowerPoint. Start with paper. Paper’s a low cost medium that allows you iterate on your ideas quickly and effectively. By building your presentation on paper, you’ll get the fundamentals right, you’ll add form to these fundamentals shortly, when you have the story straight.
+When giving your presentation form, don’t start with Keynote, or PowerPoint. Start with paper. Paper’s a low cost medium that allows you iterate on your ideas quickly and effectively. By building your presentation on paper, you’ll get the fundamentals right. You’ll add form to these fundamentals shortly, when you have the story straight. If the story isn't clear, no amount of slide magic will help you.
 
-Working on screen only allows you to see a portion of the narrative, it’s very difficult to get the bigger picture.
+/*
+
+Stress that working on screen gives you a very limited and unholistoc view of your presentation's story.
+
+*/
+
+Working on screen only allows you to see a portion of the narrative, it’s very difficult to get the bigger picture. As such, I strongly recommend working on paper first. At this stage you're focused on the over-arching narrative and paper affords a wonderful way of defining that narrative.
 
 
 ####The Power of Post-Its
 
-The humble Post-It Note is your friend. Post-It Notes allow you to quickly move elements of your narrative around, trying them in different orders.
+The humble Post-It Note is your friend. Before you make the journey into Keynote or PowerPoint, work with paper first.
+
+Post-It Notes allow you to quickly move elements of your narrative around, trying them in different orders. Before you build your final slide deck it's well worth drilling down your key points on paper.
 
 
 ####The Rough Cut
@@ -555,10 +605,13 @@ Talk about the need for a beginning, middle and an end. Also, consider the impor
 
 “If I am to speak for ten minutes, I need a week for preparation; if fifteen minutes, three days; if half an hour, two days; if an hour, I am ready now.” —Woodrow Wilson
 
+Great advice. The shorter the presentation, the harder it is to prepare.
+
+
+----
+
 
 “Live an active life among people who are doing worthwhile things, keep eyes and ears and mind and heart open to absorb truth, and then tell of the things you know, as if you know them. The world will listen, for the world loves nothing so much as real life.” —Dale Carnegie, _The Art of Public Speaking_
-
-<!--
 
 Carnegie is rightfully acknowledged as one of the world’s most insightful public speakers. This advice – to absorb everything from the world that surrounds you – is well worth bearing in mind. Perhaps unsurprisingly it’s echoed in James Webb Young’s excellent book, ‘A Technique for Producing Ideas’, which states:
 
@@ -572,19 +625,15 @@ Look for the obvious solutions, you’ll be surprised that others often overlook
 
 When developing your theme, focus less on what you want to say than on what you want to learn, and share that with your audience. The best presentations are the result of individuals wrestling with their ideas and clarifying their thinking. The world is an incredibly complicated place, wrestling with a single topic and clarifying it for your audience will result in presentations that leave your audience with worthwhile advice. /* This idea, needs to be explored further. */
 
--->
+
+----
 
 
 “A good speech should be like a woman’s skirt; long enough to cover the subject and short enough to create interest.” —Winston Churchill
 
-<!--
+Inherent sexism notwithstanding, this is great advice from Churchill. All too often presenters over-labour the point, losing their audience as they drone on and on. In over a decade of presentation experience – which includes a sizeable period of working as an educator – I’ve seen speakers drag on for what seems an eternity.
 
-Inherent sexism notwithstanding, this is great advice from Churchill. All too often presenters over-labour the point, losing their audience as they do. In over a decade of presentation experience, which includes a sizeable period of working as an educator, I’ve seen speakers drag on for what seems an eternity.
-
-The longer you speak for, the harder it is for your audience to concentrate. Bear that in mind when you plan your presentation. 40-45 minutes, in my experience, hits the sweet spot. It’s long enough for you to thoroughly explore a topic, without dragging on so long that you lose the audience.
-
--->
-
+The longer you speak for, the harder it is for your audience to concentrate. Bear that in mind when you plan your presentation. ~30 minutes, in my experience, hits the sweet spot (although many conferences pitch around ~40). Half an hour is long enough for you to thoroughly explore a topic, without dragging on so long that you lose the audience along the way.
 
 
 ----
@@ -600,11 +649,3 @@ Reference Material
 + [The Speaker - Improve Your Public Speaking (BBC)](http://www.bbc.co.uk/speaker/improve/)
 + [Public Speaking Tips (MIT)](http://web.mit.edu/urop/resources/speaking.html)
 + [10 Phrases Great Speakers Never Say](http://www.inc.com/jeff-haden/10-things-speakers-should-never-say-th.html)
-
-
-
-
-
-
-
-
