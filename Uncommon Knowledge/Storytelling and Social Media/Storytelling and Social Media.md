@@ -1,9 +1,11 @@
 Storytelling and Social Media
 =============================
 
-This is not a ‘how to’ book on becoming a ‘social media expert’ (or any of the other terms these specialists tend to use). It’s a book about the importance of knowing your own story, the art of telling that story in a captivating manner, and – finally – an overview of the social media landscape and a guide to some of the tools you might use to tell that story.
+/* This was last updated eleven months ago, but I think it might – with a bit of work – form the backbone for the first Uncommon Knowledge book. Roll this in to the other content, a little copy and paste (perhaps some judicious editing) and we might be able to rescue the best of both half-finished books. As it stands, this is too craft-focused, it needs to widen out and encompass creativity in a wider sense. */
 
-I explore the effect that tools like Twitter, Facebook, Flickr, Dribbble, Pinterest, [Insert New Social Media Tool Here]… have on the storytelling landscape, but – and this is important – the focus is on stories first, tools second.
+This is not a ‘how to’ book on becoming a ‘social media expert’ (or any of the other terms these specialists tend to use). It’s a book about the importance of knowing your own story, the art of telling that story in a captivating manner, and – finally – a few pointers about the social media landscape and a guide to some of the tools you might use to tell that story.
+
+I explore the effect that tools like Twitter, Facebook, Instagram, Pinterest, [Insert New Social Media Tool Here]… have on the storytelling landscape, but – and this is incredibly important – the focus is on stories first, tools second.
 
 Wonderful, shiny new tools do not make a great maker. Tools are simply a means to an end. Tools certainly help to shape the messages you create, but – at the end of the day, when all is said and done - they remain just tools.
 
@@ -68,11 +70,7 @@ Above: 'Start With Who'.
 
 */
 
-Apple is intimately associated with Steve Jobs, a man whose vision, relentless creative spirit and sheer force of personality, drove a company to success, not once, but twice.
-
-Martin Luther King is, well, Martin Luther King – a man who had a dream and whose sharing of that dream utterly changed America.
-
-As for the Wright brothers - Orville and Wilbur Wright - one can vividly imagine a picture of two brothers, perhaps a little competitive, driving each other on until, one cloudy day at Kitty Hawk in 1903 the flying machine they invented lifted off, forever securing their places in history.
+Apple is intimately associated with Steve Jobs, a man whose vision, relentless creative spirit and sheer force of personality, drove a company to success, not once, but twice. Martin Luther King is, well, Martin Luther King – a man who had a dream and whose sharing of that dream utterly changed America. As for the Wright brothers - Orville and Wilbur Wright - one can vividly imagine a picture of two brothers, perhaps a little competitive, driving each other on until, one cloudy day at Kitty Hawk in 1903 the flying machine they invented lifted off, forever securing their places in history.
 
 At the heart of every success lies 'who'.
 
@@ -123,11 +121,13 @@ You get the picture. It's all about stories.
 [2] The story of Jobs wooing of Sculley is a riveting read, underpinned by the irony of the fact that not long after Jobs had persuaded Sculley to lead Apple, Sculley promptly fired him. A tragedy, but one that – it might be argued – only helped to shape the Apple and the Steve Jobs narrative (years spent in the wilderness…).
 
 
+<!--
+
+This needs to go, otherwise it's too like Sinek's book.
 
 ###Martin Luther King
 
 A tragedy… A gripping speaker, etc., etc.
-
 
 
 ###The Wright Brothers
@@ -136,6 +136,7 @@ Orville and Wilbur Wright… The magic in the detail, the onsluaght against fail
 
 It sticks too because of the narrative of the underdog.
 
+-->
 
 
 ##Telling Your Story
@@ -162,7 +163,8 @@ This is where we talk about FOAF and FOAFOAF, etc. About magnification of your m
 
 
 
-##Mum, this is how… *
+Mum, this is how… *
+-------------------
 
 <small>* Being British (truth be told, Scottish), I couldn't bring myself to spell this 'Mom, this is how…', but internet dwellers will now that this title owes a significant debt of gratitude to the boundlessly talented Jessica Hische, who wrote the wonderful [Mom, this is how Twitter works…][#] in 20XX. We'll get back to that, and Twitter, shortly, but I wanted to be 100% upfront here, before moving on.</small>
 
@@ -172,26 +174,20 @@ There's every chance you might be reading this and clicking on links, only to di
 
 I can't hope to cover all the tools possible, but I can do my best to cover a core set of tools and – more importantly – explore certain types of tools and the different ways these might be used to tell your story.
 
-We'll be looking at: Twitter and Facebook (broadly all-encompassing, life-sharing tools); 
+We'll be looking at: Twitter and Facebook (broadly all-encompassing, life-sharing tools); /* Mention Instagaram and Pinterest also, if we're mapping this on to the new book. */
 
 I've loosely grouped these together into clusters, this is partly to make everything a little easier to digest, it's also partly to avoid overwhelming you with an incredibly long amorphous mass of tools you suddenly need to learn. As will become apparent in the final section of this book, the magic of these tools lies in how they come together.
 
-No one can be active on every platform all of the time (you do need to get some actual making done, right?). What you can do, however, is mix and match the best set of tools for you to tell your story. In the final section of the book, I've taken three people – who I admire, and follow - and told their stories, so you can see how social comes together in the real world…
-
-+ Tina Roth Eisenberg
-+ Oliver Jeffers
-+ Mister Clarke (How about Mr Bingo? What's he up to?)
-
-Think of the tools as being little coloured shards of glass in a kaleidoscope. You can put them together in different ways. <!-- How cool would it be to have a series of different coloured kaleidoscope pictures here? -->
+No one can be active on every platform all of the time (you do need to get some actual making done, right?). What you can do, however, is mix and match the best set of tools for you to tell your story. Think of the tools as being little coloured shards of glass in a kaleidoscope. You can put them together in different ways. <!-- How cool would it be to have a series of different coloured kaleidoscope pictures here? -->
 
 /*
 
 DIAGRAM
-Above (L-R): Twitter + Pinterest + Tumblr; Facebook + Flickr + 
+Above (L-R): Twitter + Pinterest + Tumblr; Facebook + Flickr + Etc.
+
+This is little coloured shards of diagrammatic glass.
 
 */
-
-
 
 
 
@@ -203,21 +199,21 @@ First of all explain what it is and what it isn't, then explain the basics.
 + DMs
 + RTs <!-- MTs? Perhaps saying Twitter, like all social media, has a habit of 'evolving itself', etc. -->
 
-Too much of a good thing. A screenshot of me taking up all of Cara's screen.
+Credit where credit's due: /via
+
+I thought you'd like to see this: /cc
+
+#hashtags
+
+A little on hashtags here.
+
+Talk about queueing stuff up with Buffer, etc.. Talk about cadence, rhythm, etc.. We need lots of screenshots here. We also need to talk about image posts, etc..
 
 
 
 
+Case Studies
+------------
 
-
-
-
-
-
-
-
-
-
-	
-
-Above all what we do as creatives is tell stories. We tell great, engaging stories 
+Hiut Denim?
+Blok Knives
