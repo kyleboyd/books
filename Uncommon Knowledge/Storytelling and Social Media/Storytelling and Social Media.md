@@ -215,5 +215,67 @@ Talk about queueing stuff up with Buffer, etc.. Talk about cadence, rhythm, etc.
 Case Studies
 ------------
 
-Hiut Denim?
-Blok Knives
+Discuss with Cara how best to structure all of this.
+
++ Hiut Denim?
++ Blok Knives
+
+
+
+Scratch Content
+---------------
+
+###Amazon Customer Service
+
+Me: Tracking shows delivered, but shipment not received.
+
+Amazon: Warmest greetings, XXXX, my name is Thor.
+
+Me: Greetings, Thor. Can I be Odin?
+
+Amazon: Odin, Father. How art thy doing on this here fine day?
+
+Me: Thor, my son. Agony [rains] upon my life.
+
+Amazon: This is outrageous! Who dares defy The All Father Odin! What has occurred to cause this agony?
+
+Me: I'm afraid the book I ordered to defeat our enemies has been misplaced. How can we keep Valhalla intact without our sacred book?
+
+Amazon: This is blasphemy! Wherever this book has been taken to, I shall make it my duty to get it back to you! I fear it is Loki but I dare not blame him for such things. I shall have your fortune returned to you and thereafter we can create a new quest in order to get the book back to you.
+
+Me: Very well my son.
+
+Amazon: Allow me some time to round up my allies and complete this my father.
+
+Me: Do it for me Thor, but most importantly do it for the mortals whose destiny (and grades) rely on this book.
+
+Amazon: Alas, the treasure has been returned to you. You now need to reinstate your book into your archive so that you may yet receive it soon. I shall have the Valkyrie deliver it to you as fast as their wings can move.
+
+Me: OK, so roleplay aside I have my money back and I reorder the book?
+
+Amazon: Haha, yes I have refunded you and you need to reorder the book.
+
+Me: Great!
+
+Amazon: Have you placed the order?
+
+Me: Let me do that. […] Done.
+
+Amazon: Okay let me edit it for you […] that good?
+
+Me: Wow, hooking me up for one day delivery? Sweet!
+
+Amazon: Haha, yeah man gotta' get your book ASAP!
+
+Me: I've heard Amazon has great customer service and this just proves it! Thanks, man.
+
+Amazon: No problem, is there any other issue or question that I can help you with?
+
+Me: Nah that was it. Really appreciate it
+
+Amazon: Anytime bro. Have a great day. Goodbye, Odin.
+
+Me: Bye, my son.
+
+
+
